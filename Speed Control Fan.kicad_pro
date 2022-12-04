@@ -420,15 +420,23 @@
       "microcontroller"
     ],
     [
-      "3f02ba5f-f14f-4f9d-bbc3-58c7bcf8982c",
-      "StandardizedVRMS"
+      "2b4bf7f4-845a-4b4f-9989-34e8a053d715",
+      "WaterPump"
+    ],
+    [
+      "8b52c8d6-8261-42e1-9c2f-ba1bfea65162",
+      "VRMS"
+    ],
+    [
+      "6bd8a032-1c72-4902-8002-1ca58c3a8dfe",
+      "Fans"
     ],
     [
       "5eef7685-46e3-4490-b1c3-d367d5bf00e5",
       "BUCK"
     ],
     [
-      "b697d16c-1839-48f8-af83-c961d5397db0",
+      "e0873a35-5920-46f8-92b4-30e4adebd454",
       "LDO"
     ]
   ],
